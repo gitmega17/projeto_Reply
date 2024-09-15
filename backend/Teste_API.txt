@@ -1,4 +1,19 @@
 0) Conexão com Banco de Dados
+ - Abrir DBeaver
+ - Nova Conexão
+ - Selecionar Postgre como banco de Dados
+ - Selecionar Host
+ - Preencher os seguintes campos:
+    Senha : aZKtN3D1Fu0z8LjQx4Kkfx21L7PGPu3S
+
+    host : dpg-crjjmqij1k6c73fn53m0-a.oregon-postgres.render.com
+
+    user : database_reply_user
+
+    database : database_reply
+
+- Clicar em Testar Conexão
+- Concluir
 
 1) Cadastro
 
