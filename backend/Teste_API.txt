@@ -24,7 +24,7 @@
   - Selecionar JSON
 
   - Colar URL
-        Testando Localmente: http://localhost:3000/cadatro (Terminal VScode)
+        Testando Localmente: http://localhost:3000/cadastro (Terminal VScode)
         Testando na nuvem : https://maquina-nova.onrender.com/cadastro (Clone com máquina local no Github)
 
   - Inserir o seguinte corpo 
@@ -116,3 +116,11 @@ Obs: Este é somente exemplo deve se pegar o token que foi fornecido
   - Clicar em Authorization
   - Inserir o Token sem aspas duplas "" fornecido anteriormente nos passos acima para efetuar o get
   - Clicar em send
+
+
+
+  --usuario Yuri
+  senha 12345
+
+  token
+  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJZdXJpIiwiaWF0IjoxNzI2NDM1NDQyLCJleHAiOjE3MjY0NDI2NDJ9.ditFcYu8tIKaKObA2VN1BPkO53b-hIxb0V9PkTtW0_Q
